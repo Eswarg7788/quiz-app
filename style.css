@@ -1,0 +1,29 @@
+#click,#click1,#click2,#click3{
+    width: 600px;
+    height: 60px;
+    background-color: white;
+    margin-left: 50px;
+}
+.container{
+    background-color: rgb(251, 227, 246);
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+    text-align: center;
+}
+.redbox{
+    width: 40px;
+    background-color: rgb(121, 2, 2);
+    height: 60px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+b{
+    position: relative;
+    bottom: 40px;
+}
+.ww{
+    position: relative;
+    top: 50px;
+}
